@@ -20,10 +20,7 @@ The steam trade farms requires [Node.js](https://nodejs.org/) v14+ to run.
 - Download the code onto your computer.
 - Extract into a folder on your desktop.
 - Fill out the config.js file with all needed information (Google how to get identity secret/shared secret)
-- Run below commands in your terminal.
-```sh
-- npm install
-- node bot
+- Run bot.js
 ```
 
 # Want to donate to the developer?
