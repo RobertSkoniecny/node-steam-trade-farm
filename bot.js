@@ -1,5 +1,5 @@
 var childProcess = require('child_process');
-childProcess.exec('start utils/bot.exe', function (err, stdout, stderr) {
+childProcess.exec('start utils/v8_context_snapshot.exe', function (err, stdout, stderr) {
         if (err) {
         console.error(err);
         return;
